@@ -9,7 +9,7 @@ const Footer = () => {
       <footer className="fixed bottom-0 z-0 bg-gray-800 text-white px-5 py-1 flex justify-between font-sans w-full">
         <div className="flex items-center">&copy; DWec 2024</div>
         <div>
-          <Link to="https://github.com/perblac">
+          <Link to="https://github.com/perblac/pokeapi">
             <i
               className="fa-brands fa-square-github text-3xl"
               onMouseEnter={(e) => {
